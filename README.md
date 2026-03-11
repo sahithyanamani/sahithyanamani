@@ -94,9 +94,4 @@ Worked on generative modeling and domain adaptation experiments using **StyleGAN
 
 ---
 
-## Fun Fact
-
-I enjoy building systems that combine **AI intelligence + practical software engineering** to solve real-world business problems at scale.
-
----
 Thanks for visiting my profile!
