@@ -50,11 +50,6 @@ Designed a deep learning solution for sign language interpretation using **SNNs*
 Worked on generative modeling and domain adaptation experiments using **StyleGAN**, focusing on image synthesis quality and transfer learning.
 
 ---
-You can organize your skills into a **clean GitHub “Key Technologies” section with badges**, matching the style in the screenshot. I also removed duplicates and structured it clearly.
-
-Below is a **ready-to-paste GitHub README section** for your profile.
-
----
 
 # 🛠 Key Technologies
 
