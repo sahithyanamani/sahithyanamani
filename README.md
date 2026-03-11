@@ -3,7 +3,7 @@
 ### Software Engineer | AI/ML Engineer | Full-Stack Developer
 
 Welcome to my GitHub profile!  
-I’m a Software Engineer with 3+ years of experience building AI-powered applications, full-stack platforms, data products, and automation solutions across machine learning, analytics, and cloud systems.
+I’m a Software Engineer with 3+ years of experience building AI-powered applications, full-stack applications, data products, and automation solutions across machine learning, analytics, and cloud systems.
 
 ---
 
