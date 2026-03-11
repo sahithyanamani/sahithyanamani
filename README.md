@@ -88,7 +88,7 @@ Worked on generative modeling and domain adaptation experiments using **StyleGAN
 
 ## Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn link here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sahithyanamani/]
 - 📧 Email: [Add your email here]
 - 🌐 Portfolio: [Add your portfolio link here]
 
