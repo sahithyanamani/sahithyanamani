@@ -51,22 +51,39 @@ Worked on generative modeling and domain adaptation experiments using **StyleGAN
 
 ---
 
-## Tech Stack
 
-### Languages
-`Python` `Java` `C++` `JavaScript` `TypeScript` `SQL`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
-### Frameworks & Libraries
-`FastAPI` `Flask` `Django` `Spring Boot` `React` `Angular` `LangChain` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy`
+---
 
-### Databases
-`PostgreSQL` `MySQL` `MongoDB` `DynamoDB` `SQL Server`
+## 🗄️ Databases
 
-### Cloud & DevOps
-`AWS` `GCP` `Azure` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge\&logo=amazondynamodb\&logoColor=white)
 
-### AI / Data
-`LLMs` `RAG` `Vector Databases` `Machine Learning` `Deep Learning` `NLP` `Data Analytics` `ETL`
+---
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+---
+
+## 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
 
 ---
 
@@ -95,3 +112,5 @@ Worked on generative modeling and domain adaptation experiments using **StyleGAN
 ---
 
 Thanks for visiting my profile!
+
+
