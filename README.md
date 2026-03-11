@@ -149,42 +149,6 @@ Below is a **ready-to-paste GitHub README section** for your profile.
 
 ---
 
-# 🚀 Research Projects
-
-## 🧠 Performance Analysis of VGG-19 Deep Learning Model for COVID-19 Detection
-
-Developed a deep learning model using the **VGG-19 Convolutional Neural Network architecture** to detect COVID-19 from chest X-ray images. The study evaluates model performance using metrics such as **accuracy, precision, recall, and F1-score**, demonstrating how deep learning can assist healthcare professionals in faster and more reliable diagnosis.
-
-**Technologies:**  
-Python, TensorFlow, Keras, CNN, Deep Learning
-
-📄 **Publication:**  
-https://ieeexplore.ieee.org/document/9763177
-
----
-
-## 📊 Impact of COVID-19 Pandemic on Education using Sentiment Analysis
-
-Conducted a study analyzing the impact of the COVID-19 pandemic on education by applying **Natural Language Processing (NLP) and sentiment analysis techniques** on textual data from surveys and online platforms. The research identifies trends in student experiences, online learning adaptation, and emotional responses.
-
-**Technologies:**  
-Python, NLP, Sentiment Analysis, Machine Learning
-
-📄 **Publication:**  
-https://www.jetir.org/papers/JETIR2106712.pdf
-
----
-
-## 🌧 Integrated Dynamic Approach for Rainfall Prediction
-
-Developed a predictive model for **rainfall forecasting using machine learning algorithms** and historical meteorological datasets. The system analyzes climate patterns to improve rainfall prediction accuracy and support better planning for agriculture and environmental monitoring.
-
-**Technologies:**  
-Python, Machine Learning, Data Analysis, Climate Data Processing
-
-📄 **Project Report:**  
-https://drive.google.com/file/d/1MTAPQBGt7w9WS8uJHonuGJQMK8ll9lgb/view
----
 
 ## 📊 GitHub Stats
 
