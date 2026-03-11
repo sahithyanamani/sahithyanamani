@@ -157,11 +157,9 @@ Below is a **ready-to-paste GitHub README section** for your profile.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Sahithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Sahithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahithyanamani&show_icons=true&theme=tokyonight)
 
 ---
 
