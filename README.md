@@ -174,8 +174,8 @@ Developed a predictive model for **rainfall forecasting using machine learning a
 **Technologies:**  
 Python, Machine Learning, Data Analysis, Climate Data Processing
 
-📄 **Project Report:**  
-(https://drive.google.com/file/d/1MTAPQBGt7w9WS8uJHonuGJQMK8ll9lgb/view)
+📄 **Publication:**  
+https://drive.google.com/file/d/1MTAPQBGt7w9WS8uJHonuGJQMK8ll9lgb/view
 ---
 
 ## 📜 Certifications
